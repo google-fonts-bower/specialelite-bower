@@ -1,0 +1,17 @@
+{
+    "name": "specialelite-googlefont",
+    "license": "APACHE2",
+    "authors": [
+        "Astigmatic"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/specialelite-bower.git"
+    },
+    "description": "Special Elite font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
